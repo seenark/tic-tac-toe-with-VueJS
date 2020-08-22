@@ -1,5 +1,10 @@
 # tic-tac-toe-vue
 
+## Play in this link
+```
+https://seenark.github.io/tic-tac-toe.github.io/
+```
+
 ## Project setup
 ```
 npm install
